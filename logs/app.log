@@ -1,0 +1,8 @@
+Application Started
+Database Connected
+User Login
+Application Stopped
+ERROR: Database Timeout
+INFO: Retry Connection
+ERROR: Connection Failed
+INFO: Server Shutdown
