@@ -6,3 +6,4 @@ ERROR: Database Timeout
 INFO: Retry Connection
 ERROR: Connection Failed
 INFO: Server Shutdown
+Application Restarted
